@@ -1,0 +1,8 @@
+{
+  "appId": "com.pribadi.aimomo",
+  "appName": "Momo AI",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
